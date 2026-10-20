@@ -1,0 +1,18 @@
+ticker,market,currency,sector,industry,market_cap,price,resistance,dist_to_res_pct,base_range_pct,vol_ratio,avg_dollar_vol,rsi,trend_up,score,setup
+HSTR.TO,CA,CAD,Basic Materials,Gold,704347328.0,2.52,2.6,3.2,18.2,1.3,1352323,57.7,True,76.2,"approaching resistance, volume 1.3×, RSI rising"
+AFM.V,CA,CAD,Basic Materials,Other Industrial Metals & Mining,1931661696.0,1.5,1.5,0.0,10.3,1.28,1005918,58.9,True,67.6,"at resistance, RSI rising"
+GAU.TO,CA,CAD,Basic Materials,Gold,824014080.0,3.15,3.26,3.5,20.7,1.06,1147604,56.5,True,57.7,"approaching resistance, RSI rising"
+LUCA.V,CA,CAD,Basic Materials,Other Industrial Metals & Mining,319259104.0,1.16,1.21,4.3,14.2,0.71,1488422,55.5,True,48.3,approaching resistance
+LGN.V,CA,CAD,Energy,Oil & Gas E&P,885272320.0,1.28,1.3,1.6,15.0,1.77,898071,71.9,True,76.0,"at resistance, volume 1.8×"
+ESI.TO,CA,CAD,Energy,Oil & Gas Drilling,777862464.0,4.22,3.99,-5.5,18.0,1.75,1149060,71.7,True,63.5,"early breakout, volume 1.7×"
+AXL.V,CA,CAD,Energy,Oil & Gas E&P,202963680.0,0.71,0.73,2.8,14.1,0.99,398784,60.9,True,55.0,at resistance
+DIV.TO,CA,CAD,Industrials,Specialty Business Services,756909952.0,4.01,4.125,2.9,2.7,1.16,1263627,40.6,False,56.1,"at resistance, volume drying up"
+DBO.TO,CA,CAD,Technology,Consumer Electronics,0.0,1.17,1.21,3.4,18.6,0.36,645557,59.8,True,57.6,"approaching resistance, volume drying up"
+UAA,US,USD,Consumer Cyclical,Apparel Manufacturing,2096182272.0,4.88,5.06,3.7,19.9,0.65,45574323,51.0,False,50.3,"approaching resistance, volume drying up, RSI rising"
+ABEV,US,USD,Consumer Defensive,Beverages - Brewers,51182735360.0,3.32,3.35,0.9,18.4,1.04,69349388,69.0,True,61.9,"at resistance, RSI rising"
+COTY,US,USD,Consumer Defensive,Household & Personal Products,2835810560.0,3.22,3.28,1.9,29.6,0.9,13740973,75.4,True,41.8,"at resistance, volume drying up, overbought"
+WTI,US,USD,Energy,Oil & Gas E&P,596224640.0,3.95,4.0,1.3,16.6,1.23,13195092,59.1,True,71.1,"at resistance, volume drying up, RSI rising"
+KOS,US,USD,Energy,Oil & Gas E&P,1643545984.0,2.76,2.85,3.3,17.3,0.86,32607308,53.5,True,69.3,"approaching resistance, volume drying up, RSI rising"
+REI,US,USD,Energy,Oil & Gas E&P,359544640.0,1.38,1.41,2.2,12.8,1.4,3609643,52.8,False,67.3,"at resistance, volume 1.4×, RSI rising"
+GTM,US,USD,Technology,Software - Application,1193551232.0,4.1,4.176,1.9,19.3,0.91,17729174,57.9,True,59.2,"at resistance, volume drying up"
+WIT,US,USD,Technology,Information Technology Services,20281546752.0,2.05,1.98,-3.4,24.5,1.66,18450179,75.1,True,47.6,"early breakout, volume 1.7×, overbought"
