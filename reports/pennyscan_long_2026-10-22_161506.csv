@@ -1,0 +1,3 @@
+ticker,market,currency,sector,industry,market_cap,price,resistance,dist_to_res_pct,base_range_pct,vol_ratio,avg_dollar_vol,rsi,trend_up,score,setup
+BRBS,US,USD,Financial Services,Banks - Regional,365028256.0,4.07,4.195,3.1,14.0,0.86,4189787,64.9,True,71.2,"14% 50-day base, approaching resistance, accumulation 1.2x, beats S&P, RSI healthy, near 52-wk high"
+ACCO,US,USD,Industrials,Business Equipment & Supplies,431999392.0,4.68,4.65,-0.6,13.7,1.05,2719137,66.2,True,63.9,"14% 50-day base, at resistance, beats S&P, RSI healthy, near 52-wk high"
