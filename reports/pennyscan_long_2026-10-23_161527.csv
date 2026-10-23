@@ -1,0 +1,5 @@
+ticker,market,currency,sector,industry,market_cap,price,resistance,dist_to_res_pct,base_range_pct,vol_ratio,avg_dollar_vol,rsi,trend_up,score,setup
+ESI.TO,CA,CAD,Energy,Oil & Gas Drilling,774175872.0,4.2,4.29,2.1,26.9,2.03,1334542,66.2,True,60.1,"27% 50-day base, at resistance, volume 2.0x, beats S&P, RSI healthy"
+WTI,US,USD,Energy,Oil & Gas E&P,632450944.0,4.19,4.3,2.6,25.4,1.24,13554857,64.9,True,63.1,"25% 50-day base, at resistance, beats S&P by 29pts, RSI healthy"
+BRBS,US,USD,Financial Services,Banks - Regional,365028256.0,4.07,4.195,3.1,14.0,0.84,4086610,64.9,True,71.2,"14% 50-day base, approaching resistance, accumulation 1.2x, beats S&P, RSI healthy, near 52-wk high"
+POWW,US,USD,Industrials,Aerospace & Defense,285509888.0,2.46,2.44,-0.8,16.2,1.33,1291104,64.8,True,67.2,"16% 50-day base, at resistance, beats S&P, RSI healthy, near 52-wk high"
