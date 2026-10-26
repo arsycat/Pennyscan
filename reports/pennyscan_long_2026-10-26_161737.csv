@@ -1,0 +1,2 @@
+ticker,market,currency,sector,industry,market_cap,price,resistance,dist_to_res_pct,base_range_pct,vol_ratio,avg_dollar_vol,rsi,trend_up,score,setup
+WTI,US,USD,Energy,Oil & Gas E&P,639998080.0,4.24,4.3,1.4,25.4,1.24,13794471,66.2,True,63.1,"25% 50-day base, at resistance, beats S&P by 15pts, RSI healthy"

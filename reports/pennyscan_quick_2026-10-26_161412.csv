@@ -1,0 +1,12 @@
+ticker,market,currency,sector,industry,market_cap,price,resistance,dist_to_res_pct,base_range_pct,vol_ratio,avg_dollar_vol,rsi,trend_up,score,setup
+ESI.TO,CA,CAD,Energy,Oil & Gas Drilling,792608704.0,4.3,4.3,0.0,27.2,1.87,1459760,68.9,True,68.6,"at resistance, volume 1.9×"
+MER.TO,CA,CAD,Energy,Oil & Gas E&P,1453648000.0,2.15,2.18,1.4,9.0,0.98,828349,54.3,False,61.6,"at resistance, volume drying up, RSI rising"
+LGN.V,CA,CAD,Energy,Oil & Gas E&P,1065093248.0,1.54,1.45,-5.8,28.3,5.83,2194275,86.6,True,49.8,"early breakout, volume 5.8×, overbought"
+CVVY.TO,CA,CAD,Energy,Oil & Gas E&P,810523264.0,2.62,2.7,3.1,25.6,0.75,1185822,62.9,True,46.5,approaching resistance
+AXL.V,CA,CAD,Energy,Oil & Gas E&P,217256912.0,0.76,0.82,7.9,28.1,2.22,525127,64.3,True,45.4,"approaching resistance, volume 2.2×"
+SVI.TO,CA,CAD,Real Estate,Real Estate Services,1514210944.0,4.14,4.34,4.8,8.0,1.73,1415484,42.9,True,66.2,"approaching resistance, volume 1.7×"
+COTY,US,USD,Consumer Defensive,Household & Personal Products,2844617216.0,3.23,3.28,1.5,27.6,1.09,15050985,67.9,True,63.3,"at resistance, volume drying up, RSI rising"
+RLX,US,USD,Consumer Defensive,Tobacco,2016720000.0,1.65,1.75,6.1,8.7,1.48,2591013,38.5,False,46.0,"approaching resistance, volume 1.5×"
+KOS,US,USD,Energy,Oil & Gas E&P,1697139840.0,2.85,2.93,2.8,20.6,1.32,33945056,57.6,True,75.6,"at resistance, volume 1.3×, RSI rising"
+WTI,US,USD,Energy,Oil & Gas E&P,639998080.0,4.24,4.24,0.0,23.6,1.24,13794471,66.2,True,58.1,"at resistance, RSI rising"
+GTM,US,USD,Technology,Software - Application,1243039872.0,4.27,4.475,4.8,27.9,0.78,18193743,60.8,True,44.1,"approaching resistance, volume drying up"
