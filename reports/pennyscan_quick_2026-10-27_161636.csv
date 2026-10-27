@@ -1,0 +1,16 @@
+ticker,market,currency,sector,industry,market_cap,price,resistance,dist_to_res_pct,base_range_pct,vol_ratio,avg_dollar_vol,rsi,trend_up,score,setup
+NFGC.TO,CA,CAD,Basic Materials,Gold,941675968.0,2.45,2.44,-0.4,23.2,1.67,813997,57.3,False,68.7,"at resistance, volume 1.7×, RSI rising"
+LCX.V,CA,CAD,Energy,Oil & Gas E&P,243927616.0,1.85,1.88,1.6,13.3,1.95,339512,54.9,False,79.7,"at resistance, volume 1.9×, RSI rising"
+ESI.TO,CA,CAD,Energy,Oil & Gas Drilling,820257792.0,4.45,4.39,-1.3,29.9,1.55,1496084,72.4,True,62.3,"at resistance, volume 1.6×"
+MER.TO,CA,CAD,Energy,Oil & Gas E&P,1446886912.0,2.14,2.18,1.9,9.0,1.01,848549,52.6,False,61.6,"at resistance, volume drying up, RSI rising"
+CVVY.TO,CA,CAD,Energy,Oil & Gas E&P,791961664.0,2.56,2.7,5.5,25.6,0.72,1170326,58.0,True,42.4,"approaching resistance, volume drying up"
+DIV.TO,CA,CAD,Industrials,Specialty Business Services,760685056.0,4.03,4.125,2.4,4.7,1.13,1224404,47.8,False,46.6,at resistance
+SVI.TO,CA,CAD,Real Estate,Real Estate Services,1525183616.0,4.17,4.34,4.1,8.0,1.58,1551709,45.7,False,57.9,"approaching resistance, volume 1.6×"
+ICL,US,USD,Basic Materials,Agricultural Inputs,0.0,4.92,5.215,6.0,12.6,1.97,8216829,43.7,False,50.6,"approaching resistance, volume 2.0×"
+COTY,US,USD,Consumer Defensive,Household & Personal Products,2897458432.0,3.29,3.28,-0.3,27.6,0.92,15378930,70.1,True,45.3,at resistance
+KOS,US,USD,Energy,Oil & Gas E&P,1649500800.0,2.77,2.95,6.5,21.4,1.35,34465522,52.6,True,58.0,"approaching resistance, volume 1.4×, RSI rising"
+WTI,US,USD,Energy,Oil & Gas E&P,626413248.0,4.15,4.3,3.6,25.4,1.18,14010002,61.9,True,53.8,"approaching resistance, RSI rising"
+CCCC,US,USD,Healthcare,Biotechnology,394910688.0,3.21,3.37,5.0,30.1,1.51,8326277,53.4,False,46.5,"approaching resistance, volume 1.5×, RSI rising"
+CERS,US,USD,Healthcare,Medical Devices,483659776.0,2.4,2.49,3.7,17.5,1.28,4298140,52.0,False,43.8,"approaching resistance, RSI rising"
+BRSP,US,USD,Real Estate,REIT - Mortgage,470669952.0,3.72,3.94,5.9,10.7,1.42,7411098,40.3,False,44.5,"approaching resistance, volume 1.4×"
+GTM,US,USD,Technology,Software - Application,1266328704.0,4.35,4.475,2.9,26.8,0.94,18331183,63.1,True,53.9,"at resistance, volume drying up"
