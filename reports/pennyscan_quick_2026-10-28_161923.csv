@@ -1,0 +1,20 @@
+ticker,market,currency,sector,industry,market_cap,price,resistance,dist_to_res_pct,base_range_pct,vol_ratio,avg_dollar_vol,rsi,trend_up,score,setup
+NFGC.TO,CA,CAD,Basic Materials,Gold,926301696.0,2.41,2.47,2.5,24.7,1.63,827281,55.1,True,77.1,"at resistance, volume 1.6×, RSI rising"
+LGD.TO,CA,CAD,Basic Materials,Gold,1141204352.0,2.08,2.17,4.3,24.0,1.2,3848972,56.6,False,41.2,"approaching resistance, RSI rising"
+CVVY.TO,CA,CAD,Energy,Oil & Gas E&P,822897728.0,2.66,2.7,1.5,25.6,1.0,1218346,63.2,True,64.7,"at resistance, volume drying up, RSI rising"
+ESI.TO,CA,CAD,Energy,Oil & Gas Drilling,838690624.0,4.55,4.45,-2.2,31.7,1.52,1550351,74.5,True,60.6,"at resistance, volume 1.5×"
+DIV.TO,CA,CAD,Industrials,Specialty Business Services,760685056.0,4.03,4.125,2.4,4.7,1.06,1224937,47.8,False,46.6,at resistance
+SVI.TO,CA,CAD,Real Estate,Real Estate Services,1495923456.0,4.09,4.34,6.1,8.0,1.41,1563089,40.1,False,45.3,"approaching resistance, volume 1.4×"
+DBO.TO,CA,CAD,Technology,Consumer Electronics,0.0,1.13,1.21,7.1,13.1,0.93,306546,50.1,True,53.3,"approaching resistance, volume drying up, RSI rising"
+AMC,US,USD,Communication Services,Entertainment,2668887808.0,2.99,3.2,7.0,18.5,0.92,61698684,54.1,True,49.7,"approaching resistance, volume drying up, RSI rising"
+STLA,US,USD,Consumer Cyclical,Auto Manufacturers,13588036608.0,4.68,4.71,0.6,20.2,2.06,163908550,55.7,False,70.6,"at resistance, volume 2.1×, RSI rising"
+WOOF,US,USD,Consumer Cyclical,Specialty Retail,718912576.0,2.51,2.545,1.4,18.9,0.98,6701633,59.6,True,61.5,"at resistance, RSI rising"
+DNUT,US,USD,Consumer Defensive,Grocery Stores,529174976.0,3.05,3.18,4.3,13.2,1.6,7106555,53.2,False,63.6,"approaching resistance, volume 1.6×, RSI rising"
+COTY,US,USD,Consumer Defensive,Household & Personal Products,2959106304.0,3.36,3.31,-1.5,28.8,0.92,15239011,72.6,True,44.4,at resistance
+WTI,US,USD,Energy,Oil & Gas E&P,636979200.0,4.22,4.3,1.9,25.0,1.11,14211455,63.8,True,47.1,at resistance
+CCCC,US,USD,Healthcare,Biotechnology,417670336.0,3.395,3.37,-0.7,30.1,1.36,8589254,58.3,True,69.4,"at resistance, volume 1.4×, RSI rising"
+EDIT,US,USD,Healthcare,Biotechnology,453061088.0,2.95,2.97,0.7,32.3,1.31,6312407,60.4,False,57.1,"at resistance, volume 1.3×, RSI rising"
+ESRT,US,USD,Real Estate,REIT - Diversified,1522538880.0,4.97,5.09,2.4,28.5,0.79,23176312,65.7,True,52.6,"at resistance, volume drying up"
+BRSP,US,USD,Real Estate,REIT - Mortgage,463078496.0,3.66,3.94,7.7,10.7,1.79,7752819,36.6,False,41.1,"approaching resistance, volume 1.8×"
+GTM,US,USD,Technology,Software - Application,1289617408.0,4.43,4.475,1.0,25.0,1.16,18926337,65.2,True,57.1,"at resistance, RSI rising"
+VRRM,US,USD,Technology,Information Technology Services,477226016.0,3.14,3.195,1.8,21.9,0.71,13498733,49.2,False,42.3,"at resistance, volume drying up"
