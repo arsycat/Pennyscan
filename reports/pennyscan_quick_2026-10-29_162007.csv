@@ -1,0 +1,16 @@
+ticker,market,currency,sector,industry,market_cap,price,resistance,dist_to_res_pct,base_range_pct,vol_ratio,avg_dollar_vol,rsi,trend_up,score,setup
+NFGC.TO,CA,CAD,Basic Materials,Gold,907083776.0,2.36,2.47,4.7,24.7,1.77,854048,52.5,True,65.7,"approaching resistance, volume 1.8×, RSI rising"
+LGD.TO,CA,CAD,Basic Materials,Gold,1119258112.0,2.04,2.17,6.4,24.0,1.25,3909787,54.1,True,41.0,"approaching resistance, RSI rising"
+MER.TO,CA,CAD,Energy,Oil & Gas E&P,1460409216.0,2.16,2.17,0.5,8.5,0.81,795171,55.7,True,71.9,"at resistance, volume drying up, RSI rising"
+CVVY.TO,CA,CAD,Energy,Oil & Gas E&P,801242432.0,2.59,2.7,4.2,25.6,0.89,1214422,57.8,True,48.5,"approaching resistance, volume drying up"
+DIV.TO,CA,CAD,Industrials,Specialty Business Services,773897856.0,4.1,4.125,0.6,4.7,1.48,1290386,56.3,False,79.2,"at resistance, volume 1.5×, RSI rising"
+SVI.TO,CA,CAD,Real Estate,Real Estate Services,1495510144.0,4.09,4.34,6.1,8.0,1.38,1575408,40.1,False,45.0,"approaching resistance, volume 1.4×"
+DBO.TO,CA,CAD,Technology,Consumer Electronics,251070832.0,1.13,1.21,7.1,13.1,1.41,328434,50.1,True,61.9,"approaching resistance, volume 1.4×, RSI rising"
+AMC,US,USD,Communication Services,Entertainment,2749222144.0,3.08,3.2,3.9,18.5,0.96,59882283,57.8,True,65.3,"approaching resistance, volume drying up, RSI rising"
+STLA,US,USD,Consumer Cyclical,Auto Manufacturers,13646105600.0,4.7,4.83,2.8,23.2,1.81,159042619,56.2,False,65.7,"at resistance, volume 1.8×, RSI rising"
+WOOF,US,USD,Consumer Cyclical,Specialty Retail,741826112.0,2.59,2.545,-1.7,18.9,1.24,6979142,64.4,True,61.5,"at resistance, RSI rising"
+DNUT,US,USD,Consumer Defensive,Grocery Stores,555200000.0,3.2,3.18,-0.6,13.2,1.47,7393898,60.3,True,83.0,"at resistance, volume 1.5×, RSI rising"
+COTY,US,USD,Consumer Defensive,Household & Personal Products,2950299648.0,3.35,3.4,1.5,32.3,0.9,14860574,71.7,True,41.9,at resistance
+SITC,US,USD,Real Estate,REIT - Retail,200455792.0,3.82,3.835,0.4,29.6,0.9,8903548,74.9,True,43.9,at resistance
+GTM,US,USD,Technology,Software - Application,1304173056.0,4.48,4.475,-0.1,25.0,1.24,18912920,66.5,True,57.1,"at resistance, RSI rising"
+VRRM,US,USD,Technology,Information Technology Services,507622528.0,3.34,3.195,-4.3,21.9,0.82,13147893,58.2,True,52.3,"early breakout, volume drying up, RSI rising"
