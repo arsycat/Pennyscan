@@ -1,0 +1,13 @@
+ticker,market,currency,sector,industry,market_cap,price,resistance,dist_to_res_pct,base_range_pct,vol_ratio,avg_dollar_vol,rsi,trend_up,score,setup
+DIV.TO,CA,CAD,Industrials,Specialty Business Services,770122752.0,4.08,4.125,1.1,4.7,1.64,1352820,53.6,False,81.5,"at resistance, volume 1.6×, RSI rising"
+AMC,US,USD,Communication Services,Entertainment,2731369984.0,3.06,3.2,4.6,18.5,1.01,61001550,56.7,True,61.9,"approaching resistance, volume drying up, RSI rising"
+UAA,US,USD,Consumer Cyclical,Apparel Manufacturing,2143432064.0,4.99,5.06,1.4,11.5,0.93,37416490,55.6,True,74.8,"at resistance, volume drying up, RSI rising"
+WOOF,US,USD,Consumer Cyclical,Specialty Retail,747554496.0,2.61,2.64,1.1,23.4,1.38,6999026,65.4,True,74.4,"at resistance, volume 1.4×, RSI rising"
+STLA,US,USD,Consumer Cyclical,Auto Manufacturers,13477326848.0,4.64,4.83,4.1,23.2,1.67,156074093,54.2,False,58.2,"approaching resistance, volume 1.7×, RSI rising"
+DNUT,US,USD,Consumer Defensive,Grocery Stores,568212544.0,3.275,3.205,-2.1,14.1,1.52,7732023,63.3,True,83.1,"at resistance, volume 1.5×, RSI rising"
+COTY,US,USD,Consumer Defensive,Household & Personal Products,2994333952.0,3.4,3.43,0.9,30.4,0.84,15077597,73.4,True,43.3,at resistance
+KOS,US,USD,Energy,Oil & Gas E&P,1697139840.0,2.85,2.95,3.5,21.4,1.41,36638695,56.3,True,73.8,"approaching resistance, volume 1.4×, RSI rising"
+WTI,US,USD,Energy,Oil & Gas E&P,611318976.0,4.05,4.3,6.2,25.0,1.34,15443228,56.0,True,46.9,"approaching resistance, volume 1.3×"
+ZJYL,US,USD,Healthcare,Medical Instruments & Supplies,175459040.0,2.35,2.24,-4.7,21.1,86.24,456025,60.9,False,64.9,"early breakout, volume 86.2×, RSI rising"
+ESRT,US,USD,Real Estate,REIT - Diversified,1522538880.0,4.97,5.09,2.4,25.1,0.76,22915415,63.2,True,55.1,"at resistance, volume drying up"
+GTM,US,USD,Technology,Software - Application,1269239808.0,4.36,4.5,3.2,25.7,0.93,19097256,60.7,True,45.6,approaching resistance
