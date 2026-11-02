@@ -1,0 +1,11 @@
+ticker,market,currency,sector,industry,market_cap,price,resistance,dist_to_res_pct,base_range_pct,vol_ratio,avg_dollar_vol,rsi,trend_up,score,setup
+PCU.V,CA,CAD,Basic Materials,Gold,418977696.0,2.0,2.0,0.0,21.2,1.07,508009,61.6,True,59.8,"at resistance, RSI rising"
+DIV.TO,CA,CAD,Industrials,Specialty Business Services,785223232.0,4.16,4.125,-0.8,4.7,1.83,1392346,61.5,True,94.3,"at resistance, volume 1.8×, RSI rising"
+SVI.TO,CA,CAD,Real Estate,Real Estate Services,1510136192.0,4.13,4.34,5.1,8.5,1.44,1596633,45.9,False,50.6,"approaching resistance, volume 1.4×"
+AMC,US,USD,Communication Services,Entertainment,2847408640.0,3.19,3.2,0.3,18.5,1.17,62848576,61.9,True,69.8,"at resistance, volume drying up, RSI rising"
+WOOF,US,USD,Consumer Cyclical,Specialty Retail,784789056.0,2.74,2.64,-3.6,22.8,1.47,7314754,71.6,True,56.2,"early breakout, volume 1.5×"
+STLA,US,USD,Consumer Cyclical,Auto Manufacturers,13709694976.0,4.72,4.83,2.3,23.2,0.86,158204979,56.5,True,53.4,"at resistance, RSI rising"
+DNUT,US,USD,Consumer Defensive,Grocery Stores,588164992.0,3.39,3.295,-2.8,17.3,1.75,8512364,67.4,True,84.2,"at resistance, volume 1.8×, RSI rising"
+ARI,US,USD,Real Estate,REIT - Mortgage,296169920.0,2.31,2.437,5.5,9.5,1.86,11409759,45.4,True,63.7,"approaching resistance, volume 1.9×"
+BBAI,US,USD,Technology,Information Technology Services,1241988608.0,2.58,2.67,3.5,29.0,1.35,47226632,55.3,True,62.6,"approaching resistance, volume 1.4×, RSI rising"
+GTM,US,USD,Technology,Software - Application,1254684288.0,4.31,4.5,4.4,25.7,0.94,18801744,58.3,True,47.6,"approaching resistance, volume drying up"
