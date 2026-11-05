@@ -1,0 +1,6 @@
+ticker,market,currency,sector,industry,market_cap,price,resistance,dist_to_res_pct,base_range_pct,vol_ratio,avg_dollar_vol,rsi,trend_up,score,setup
+LGD.TO,CA,CAD,Basic Materials,Gold,1124744704.0,2.05,2.11,2.9,20.6,1.56,5040035,54.2,True,79.0,"at resistance, volume 1.6×, RSI rising"
+DIV.TO,CA,CAD,Industrials,Specialty Business Services,777672960.0,4.12,4.23,2.7,7.4,2.33,1878642,56.1,True,84.7,"at resistance, volume 2.3×"
+IRWD,US,USD,Healthcare,Drug Manufacturers - Specialty & Generic,665917056.0,4.03,3.97,-1.5,17.5,1.92,6522580,61.5,False,76.3,"at resistance, volume 1.9×, RSI rising"
+SITC,US,USD,Real Estate,REIT - Retail,187399216.0,3.57,3.84,7.6,29.7,2.4,12588546,54.4,True,45.9,"approaching resistance, volume 2.4×"
+GRAB,US,USD,Technology,Software - Application,14048759808.0,3.48,3.39,-2.6,27.0,2.11,201925973,70.3,True,70.7,"at resistance, volume 2.1×"

@@ -1,0 +1,3 @@
+ticker,market,currency,sector,industry,market_cap,price,resistance,dist_to_res_pct,base_range_pct,vol_ratio,avg_dollar_vol,rsi,trend_up,score,setup
+TCPC,US,USD,Financial Services,Asset Management,358264864.0,4.27,4.42,3.5,17.9,1.56,3150463,58.1,True,69.7,"18% 50-day base, approaching resistance, volume 1.6x, beats S&P by 18pts, RSI healthy"
+CRON,US,USD,Healthcare,Drug Manufacturers - Specialty & Generic,1370495872.0,3.72,3.608,-3.0,16.8,1.98,3556946,72.9,True,62.8,"17% 50-day base, early breakout, volume 2.0x, beats S&P by 29pts, near 52-wk high"
