@@ -1,0 +1,2 @@
+ticker,market,currency,sector,industry,market_cap,price,resistance,dist_to_res_pct,base_range_pct,vol_ratio,avg_dollar_vol,rsi,trend_up,score,setup
+TCPC,US,USD,Financial Services,Asset Management,360781952.0,4.3,4.42,2.8,17.9,1.88,3462903,59.3,True,73.1,"18% 50-day base, at resistance, volume 1.9x, beats S&P by 19pts, RSI healthy"
