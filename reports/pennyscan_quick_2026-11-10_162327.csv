@@ -1,0 +1,11 @@
+ticker,market,currency,sector,industry,market_cap,price,resistance,dist_to_res_pct,base_range_pct,vol_ratio,avg_dollar_vol,rsi,trend_up,score,setup
+SLI.V,CA,CAD,Basic Materials,Other Industrial Metals & Mining,547860864.0,2.22,2.3,3.6,22.3,0.66,625501,50.3,False,49.0,"approaching resistance, volume drying up, RSI rising"
+LGD.TO,CA,CAD,Basic Materials,Gold,1152177408.0,2.1,2.22,5.7,26.9,1.15,5512000,55.2,True,42.2,"approaching resistance, RSI rising"
+LGN.V,CA,CAD,Energy,Oil & Gas E&P,1051260864.0,1.52,1.59,4.6,30.9,0.95,3399292,73.6,True,42.9,"approaching resistance, volume drying up"
+QS,US,USD,Consumer Cyclical,Auto Parts,2755055104.0,4.45,4.66,4.7,22.6,0.93,63177147,52.7,True,53.2,"approaching resistance, volume drying up, RSI rising"
+LCID,US,USD,Consumer Cyclical,Auto Manufacturers,1471268096.0,3.77,3.64,-3.4,27.7,1.59,44258579,55.6,False,49.3,"early breakout, volume 1.6×, RSI rising"
+CLOV,US,USD,Healthcare,Healthcare Plans,2639624192.0,4.93,5.275,7.0,25.9,1.47,20838174,58.8,True,53.9,"approaching resistance, volume 1.5×, RSI rising"
+SPCE,US,USD,Industrials,Aerospace & Defense,422952576.0,2.79,2.94,5.4,30.4,1.48,15123603,54.4,True,54.0,"approaching resistance, volume 1.5×, RSI rising"
+HUCK,US,USD,Technology,Software - Application,161334032.0,3.43,3.242,-5.5,19.2,4.53,3572858,60.8,False,66.3,"early breakout, volume 4.5×, RSI rising"
+WIT,US,USD,Technology,Information Technology Services,21469648896.0,2.17,2.22,2.3,28.3,0.69,24978865,68.4,True,52.8,"at resistance, volume drying up"
+GRAB,US,USD,Technology,Software - Application,13523949568.0,3.35,3.56,6.3,33.3,1.32,221732802,62.0,True,40.1,"approaching resistance, volume 1.3×"
