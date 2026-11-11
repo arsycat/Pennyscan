@@ -1,0 +1,10 @@
+ticker,market,currency,sector,industry,market_cap,price,resistance,dist_to_res_pct,base_range_pct,vol_ratio,avg_dollar_vol,rsi,trend_up,score,setup
+ALK.TO,CA,CAD,Basic Materials,Gold,2431844608.0,1.78,1.83,2.8,29.8,0.87,511717,55.4,True,61.7,"at resistance, volume drying up, RSI rising"
+THX.V,CA,CAD,Basic Materials,Gold,699901760.0,1.05,1.085,3.3,27.6,0.64,534582,54.0,False,46.7,"approaching resistance, volume drying up, RSI rising"
+LGN.V,CA,CAD,Energy,Oil & Gas E&P,1051260864.0,1.52,1.59,4.6,27.2,0.52,3409683,73.6,True,45.5,"approaching resistance, volume drying up"
+SVI.TO,CA,CAD,Real Estate,Real Estate Services,1513792640.0,4.14,4.34,4.8,8.5,0.53,1635413,47.0,False,42.8,"approaching resistance, volume drying up"
+ANGX,US,USD,Communication Services,Entertainment,803052224.0,4.3,3.975,-7.6,23.8,2.28,6335598,61.3,False,63.0,"early breakout, volume 2.3×, RSI rising"
+SVRA,US,USD,Healthcare,Biotechnology,1100911232.0,4.99,5.15,3.2,24.7,1.83,13141705,53.9,True,78.9,"approaching resistance, volume 1.8×, RSI rising"
+CLOV,US,USD,Healthcare,Healthcare Plans,2661041152.0,4.97,5.275,6.1,25.9,1.2,20934285,59.7,True,40.8,"approaching resistance, RSI rising"
+SPCE,US,USD,Industrials,Aerospace & Defense,435080224.0,2.87,2.94,2.4,30.4,1.15,15128557,57.1,True,53.3,"at resistance, RSI rising"
+WIT,US,USD,Technology,Information Technology Services,21370710016.0,2.16,2.22,2.8,24.7,0.59,25095425,66.7,True,55.3,"at resistance, volume drying up"
