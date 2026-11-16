@@ -1,0 +1,4 @@
+ticker,market,currency,sector,industry,market_cap,price,resistance,dist_to_res_pct,base_range_pct,vol_ratio,avg_dollar_vol,rsi,trend_up,score,setup
+BIG.V,CA,CAD,Basic Materials,Other Industrial Metals & Mining,363472320.0,1.06,1.07,0.9,17.6,1.0,430091,52.8,False,47.4,"at resistance, RSI rising"
+ESI.TO,CA,CAD,Energy,Oil & Gas Drilling,814728000.0,4.42,4.65,5.2,27.4,0.71,2075250,58.6,True,52.4,"approaching resistance, volume drying up, RSI rising"
+LXEO,US,USD,Healthcare,Biotechnology,265144736.0,3.23,3.44,6.5,34.9,11.04,9335318,53.4,False,42.6,"approaching resistance, volume 11.0×, RSI rising"
