@@ -1,0 +1,2 @@
+ticker,market,currency,sector,industry,market_cap,price,resistance,dist_to_res_pct,base_range_pct,vol_ratio,avg_dollar_vol,rsi,trend_up,score,setup
+POWW,US,USD,Industrials,Aerospace & Defense,303917984.0,2.7,2.6,-3.7,23.8,1.99,1650357,72.1,True,66.1,"24% 50-day base, early breakout, accumulation 1.4x, volume 2.0x, beats S&P by 25pts, near 52-wk high"
