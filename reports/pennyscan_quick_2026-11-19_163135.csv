@@ -1,0 +1,2 @@
+ticker,market,currency,sector,industry,market_cap,price,resistance,dist_to_res_pct,base_range_pct,vol_ratio,avg_dollar_vol,rsi,trend_up,score,setup
+LGN.V,CA,CAD,Energy,Oil & Gas E&P,1044344704.0,1.51,1.59,5.3,24.2,0.49,3552492,62.4,True,54.2,"approaching resistance, volume drying up, RSI rising"
