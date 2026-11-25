@@ -1,0 +1,2 @@
+ticker,market,currency,sector,industry,market_cap,price,resistance,dist_to_res_pct,base_range_pct,vol_ratio,avg_dollar_vol,rsi,trend_up,score,setup
+PLX,US,USD,Healthcare,Biotechnology,267290976.0,3.17,3.14,-0.9,28.2,1.42,3528655,63.0,True,66.2,"28% 50-day base, at resistance, beats S&P by 28pts, RSI healthy, near 52-wk high"
